@@ -1,0 +1,34 @@
+{
+  "days": [
+    {
+      "id": "af68",
+      "name": "Sunday"
+    },
+    {
+      "id": "e9f8",
+      "name": "Monday"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "4a51",
+      "day": "Monday",
+      "task": "hello"
+    },
+    {
+      "id": "5ec6",
+      "day": "Monday",
+      "task": "bye"
+    },
+    {
+      "id": "63b1",
+      "day": "Sunday",
+      "task": "hello"
+    },
+    {
+      "id": "4149",
+      "day": "Sunday",
+      "task": "byeee"
+    }
+  ]
+}
